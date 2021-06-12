@@ -1,0 +1,34 @@
+<mat-tab-group mat-stretch-tabs mat-align-tabs="center" headerPosition="below" [selectedIndex]="defaultTabIndex"
+    (selectedIndexChange)="onTabChange($event)" style="height: 97%;">
+    <mat-tab *ngFor="let tab of tabs;" [label]="tab">
+        <div class="container text-center my-4">
+            <div class="row">
+                <div class="col-lg-7 col-12 mt-3 mx-auto" *ngFor="let course of data">
+                    <div class="card text-light" style="background-color: #1D2032; box-shadow:0 0 4px deepskyblue;">
+                        <div class="card-header fs-6 lh-sm">{{course.title}}</div>
+                        <div class="card-body text-success py-2">
+                            <p class="card-text">
+                                <button class="btn text-light" style="border: 1px solid rgba(0, 191, 255, 0.8);">
+                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor"
+                                        class="bi bi-play-btn me-2" viewBox="0 0 14 18">
+                                        <path
+                                            d="M6.79 5.093A.5.5 0 0 0 6 5.5v5a.5.5 0 0 0 .79.407l3.5-2.5a.5.5 0 0 0 0-.814l-3.5-2.5z" />
+                                        <path
+                                            d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm15 0a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4z" />
+                                    </svg>Unlock Link -->
+                                    <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 64" width="16" height="16"
+                                        class="me-1 mb-1">
+                                        <path
+                                            d="M141.58 40.23a3.83 3.83 0 0 0-1.693-.796c-3.655 3.643-8.115 7.48-12.075 10.06-1.827 1.214-4.126 1.82-5.647 1.82-3.503 0-5.025-3.34-5.482-8.65-.61-7.13-1.02-15.672-1.02-28.873 0-13.54-3.073-22.743-11.258-23.465-.346-.03-.696-.052-1.06-.052-5.025 0-7.462 2.58-10.66 9.104-2.74 5.613-7.004 13.806-14.92 29.282C70.913 42.014 63.3 53.85 56.75 62.042c-1.824 2.27-3.265 3.83-4.62 4.72-.905.596-1.774.894-2.688.894-2.585 0-4.47-2.18-5.1-7.26-.15-1.207-.23-2.577-.23-4.12 0-10.47 3.96-27.462 10.8-52.498 5.025-18.206 2.894-30.646-8.07-30.646h-.123l-.007.002c-2.483.03-4.54.928-6.524 2.49-1.952 1.537-3.906 4.857-5.73 9.322C32.413-10.03 19.91 15.047.014 27.966c-.234 4.912 2.546 9.82 8.18 10.353 5.13.486 8.77-1.676 13.46-4.825a1296.183 1296.183 0 0 0-1.858 8.416l-.652 2.986a83.792 83.792 0 0 0-1.417 8.52C14.92 78.494 26.543 90.87 40.155 90.87c2.275 0 4.53-.27 6.767-.84C61.92 86.226 76.36 69.023 93.448 29.42c-.26 4.308-.286 8.33-.1 12.065 1.125 22.697 10.103 29.507 22.787 29.507 9.593 0 18.576-5.006 23.144-11.227 3.35-4.4 4.72-9.256 4.72-13.05 0-2.944-.934-5.295-2.42-6.488"
+                                            fill="#ea5252" fill-rule="evenodd" />
+                                    </svg> -->
+                                    Get
+                                </button>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </mat-tab>
+</mat-tab-group>

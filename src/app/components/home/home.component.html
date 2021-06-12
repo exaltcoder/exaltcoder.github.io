@@ -1,0 +1,18 @@
+<div class="container my-4">
+    <div class="row text-center">
+        <div class="col-12">
+            <h1>Exalt Coder</h1>
+        </div>
+    </div>
+    <div class="row text-center my-4">
+        <div class="col-12 p-2" *ngFor="let buttonText of buttons; let i = index;">
+            <button class="btn btn-lg text-light circle-link border-gradient"
+                (click)="onButtonClick(i)">{{buttonText}}</button>
+        </div>
+    </div>
+    <div class="row text-center">
+        <div id="btn-icons" class="col-12">
+
+        </div>
+    </div>
+</div>
