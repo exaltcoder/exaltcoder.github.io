@@ -12,11 +12,10 @@
 }
 
 .border-gradient {
-    font-family: 'Exo 2', sans-serif;
     border: 1px solid;
-    border-image-slice: 1;
     border-width: 2px;
     border-image-source: linear-gradient(to right, #49D9FD, #EE1F7D);
+    border-image-slice: 1;
     box-shadow: 0px 2px 20px 0px rgb(0 0 0 / 40%);   
 }
 
@@ -31,5 +30,6 @@ h1 {
 }
 
 button{
+    font-family: 'Exo 2', sans-serif;
     min-width: 200px;
 }
