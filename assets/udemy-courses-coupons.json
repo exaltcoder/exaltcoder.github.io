@@ -1,9 +1,102 @@
 {
     "today": {
-        "date": "Jun 16",
+        "date": "Jun 17",
         "courses": []
     },
     "yesterday": {
+        "date": "Jun 16",
+        "courses": [
+            {
+                "title": "Android App Development and Android Application Hacking",
+                "url": "https://www.udemy.com/course/android-development-and-android-application-hacking/?couponCode=OAKACADEMY"
+            },
+            {
+                "title": "Mastering Python, Data Handling, Analysis and Visualization",
+                "url": "https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/?couponCode=9F4EBFAD98AAA8D81D5D"
+            },
+            {
+                "title": "Natural Language Processing Real-World Projects in Python",
+                "url": "https://www.udemy.com/course/natural-language-processing-real-world-projects-in-python/?couponCode=JUNE_OFFER"
+            },
+            {
+                "title": "Fiverr 101",
+                "url": "https://www.udemy.com/course/fiverr-101/?couponCode=FREELANCE"
+            },
+            {
+                "title": "Best SAP FICO Tutorial For Beginners & Freshers",
+                "url": "https://www.udemy.com/course/learn-sap-fico-basic-to-advance-h/?couponCode=JUNE21"
+            },
+            {
+                "title": "Make a Your Own Free VPN with AWS/Cloud Computing!",
+                "url": "https://www.udemy.com/course/make-a-your-own-free-vpn-with-awscloud-computing/?couponCode=9CDA9D0B682251BA8A88"
+            },
+            {
+                "title": "Financial Statement Analysis – Ratio Analysis",
+                "url": "https://www.udemy.com/course/financial-statement-analysis-ratio-analysis/?couponCode=BA6C6A90B98074D2AB78"
+            },
+            {
+                "title": "Python Complete Course For Beginners",
+                "url": "https://www.udemy.com/course/python-complete-course-for-beginners-h/?couponCode=DISCUDEMY"
+            },
+            {
+                "title": "Adobe Premiere Pro CC Video Editing Course Beginners To Pro",
+                "url": "https://www.udemy.com/course/adobe-premiere-pro-cc-video-editing-course-beginners-to-professional/?couponCode=FREE_FREE_ADOBE"
+            },
+            {
+                "title": "LinkedIn Growth Hacking & Personal Branding Masterclass",
+                "url": "https://www.udemy.com/course/linkedin-growth-hacking-personal-branding-masterclass/?couponCode=GROWTHHACKER"
+            },
+            {
+                "title": "PHP for Beginners 2021: The Complete PHP MySQL PDO Course",
+                "url": "https://www.udemy.com/course/php-for-beginners-2021-the-complete-php-mysql-pdo-course/?couponCode=FULLSTACK22"
+            },
+            {
+                "title": "Memory Boosting Formula",
+                "url": "https://www.udemy.com/course/nlp-beginner-level-memory-boosting-formula/?couponCode=MEMORY"
+            },
+            {
+                "title": "Facebook Messenger Mastery 2021",
+                "url": "https://www.udemy.com/course/henry-zhang-facebook-messenger-mini-course/?couponCode=D76FD6F8451EBD801700"
+            },
+            {
+                "title": "Bootstrap & jQuery – Certification Course for Beginners",
+                "url": "https://www.udemy.com/course/bootstrap-jquery-certification-course-for-beginners/?couponCode=YOUACCEL58453"
+            },
+            {
+                "title": "Project Development Using JAVA for Beginners - 2021",
+                "url": "https://www.udemy.com/course/project-development-using-java-for-beginners-2020/?couponCode=28ADFBEDA41E6FB655AB"
+            },
+            {
+                "title": "NodeJs REST APIs - A Project [Express + Swagger + MySQL]",
+                "url": "https://www.udemy.com/course/nodejs-restapi-its-simple/?couponCode=8637C14DBDA290B1E3F2"
+            },
+            {
+                "title": "Create AI Voice Assistant (JARVIS) With Python",
+                "url": "https://www.udemy.com/course/learn-to-create-ai-voice-assistant-jarvis-with-python/?couponCode=99DB51B9B0E6667B86F2"
+            },
+            {
+                "title": "Adobe InDesign 2021 Ultimate Course",
+                "url": "https://www.udemy.com/course/adobe-indesign-cc-2020-master-course-q/?couponCode=TRY10FREE62105"
+            },
+            {
+                "title": "Adobe Audition 2021 Ultimate Course",
+                "url": "https://www.udemy.com/course/adobe-audition-cc-2020-master-course/?couponCode=TRY10FREE62105"
+            },
+            {
+                "title": "Adobe Illustrator 2021 Ultimate Course",
+                "url": "https://www.udemy.com/course/adobe-illustrator-cc-2020-master-course/?couponCode=TRY10FREE62105"
+            },
+            {
+                "title": "Adobe Animate 2021 Ultimate Course",
+                "url": "https://www.udemy.com/course/adobe-animate-cc-2020-master-course/?couponCode=TRY10FREE62105"
+            },
+            {
+                "title": "Python for beginners - Learn all the basics of python",
+                "url": "https://www.udemy.com/course/python-for-beginners-learn/?couponCode=6CADC880DA57A39E76"
+            }
+        ]
+    },
+    "dayBeforeYesterday": {
         "date": "Jun 15",
         "courses": [
             {
@@ -57,83 +150,6 @@
             {
                 "title": "Digital Marketing Strategy 2021. Start from scratch!",
                 "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=HOTFREEDIGITAL"
-            }
-        ]
-    },
-    "dayBeforeYesterday": {
-        "date": "Jun 14",
-        "courses": [
-            {
-                "title": "Android App Development Course – 2021 (Learn without Coding)",
-                "url": "https://www.udemy.com/course/android-app-development-course-2021-learn-without-coding/?couponCode=43435CB81BB5681FE4FD"
-            },
-            {
-                "title": "Email Monetization Mastery 2021",
-                "url": "https://www.udemy.com/course/henry-zhang-email-monetization-mini-course/?couponCode=8A78A319B6962E780786"
-            },
-            {
-                "title": "Referral Marketing Mastery 2021",
-                "url": "https://www.udemy.com/course/henry-zhang-referral-marketing-mini-course/?couponCode=A4F91956F68FA4A5FB26"
-            },
-            {
-                "title": "Youtube Business Mastery 2021",
-                "url": "https://www.udemy.com/course/henry-zhang-youtube-mini-course/?couponCode=E5C29914486161FF697B"
-            },
-            {
-                "title": "Freelancing: 37 Ways to Make Money From Home as a Freelancer",
-                "url": "https://www.udemy.com/course/make-money-freelancing/?couponCode=6F59999DF9D19D6EBDB0"
-            },
-            {
-                "title": "English vocabulary: Learn more than 200 words for beginners",
-                "url": "https://www.udemy.com/course/english-vocabulary-learn-more-than-200-words-for-beginners/?couponCode=AF2763A98E118FF0C849"
-            },
-            {
-                "title": "Polyglot Masterclass: Become Fluent in any Language for Free",
-                "url": "https://www.udemy.com/course/polyglot/?couponCode=FREE-JUNE21"
-            },
-            {
-                "title": "Motion Graphics: Create Motion Graphics in After Effects CC",
-                "url": "https://www.udemy.com/course/motion-graphics-in-adobe-after-effects-cc/?couponCode=UDEMY210613FREE"
-            },
-            {
-                "title": "Digital Marketing Strategy 2021. Start from scratch!",
-                "url": "https://www.udemy.com/course/digital-marketing-strategy-from-scratch-course/?couponCode=HOTFREEDIGITAL"
-            },
-            {
-                "title": "Professional Adobe Photoshop CC Course With Advance Training",
-                "url": "https://www.udemy.com/course/professional-adobe-photoshop-cc-course-with-advance-training/?couponCode=MASTERCLASS_FREE"
-            },
-            {
-                "title": "After Effects for Beginner : Learn by Creating a Lower Third",
-                "url": "https://www.udemy.com/course/aftereffectsbeginners/?couponCode=34C1F8E7DE7B13AF38D7"
-            },
-            {
-                "title": "Complete JAVASCRIPT with HTML5,CSS3 from zero to Expert-2021",
-                "url": "https://www.udemy.com/course/build-responsive-website-using-html5-css3-js-and-bootstrap-p/?couponCode=4ECC305D4EF8AA66F0FB"
-            },
-            {
-                "title": "YouTube Academy – The Complete 2021 Guide Beginner to Pro",
-                "url": "https://www.udemy.com/course/youtubeacademy/?couponCode=JUNEFREE2"
-            },
-            {
-                "title": "Public Speaking: A tactical approach",
-                "url": "https://www.udemy.com/course/publicspeakingtactics/?couponCode=98D5C5ADAB13DA2D287A"
-            },
-            {
-                "title": "Reverse Engineering, Debugging and Malware Analysis - 2021",
-                "url": "https://www.udemy.com/course/reverse-engineering-debugging-and-malware-analysis-2021/?couponCode=ENGINEERINGFREE"
-            },
-            {
-                "title": "Graphic Design - Passive Income with Online Merchandise",
-                "url": "https://www.udemy.com/course/graphic-design-passive-income-with-online-merchandise/?couponCode=EB3A8C2B5734FBEF1CC7"
-            },
-            {
-                "title": "Bootstrap From Scratch - Fast and Responsive Web Development",
-                "url": "https://www.udemy.com/course/bootstrap-from-scratch-fast-and-responsive-web-development/?couponCode=3A6A89E792343B89690F"
-            },
-            {
-                "title": "Reverse Engineering & Malware Analysis of .NET & Java",
-                "url": "https://www.udemy.com/course/malware-analysis-of-net-java/?couponCode=REMAJ_FREE"
             }
         ]
     }
